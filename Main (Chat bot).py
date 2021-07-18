@@ -18,6 +18,9 @@ convo = [
     'thank you',
     'In which city you live?',
     'I live in Kharsia',
+    'I like rose flower'
+    'I like blue color'
+    'I like watching netflix'
     'Which language you talk',
     'I talk in English',
     'What you like',
